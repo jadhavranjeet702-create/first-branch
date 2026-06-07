@@ -6,6 +6,11 @@ public class firstbr {
         System.out.println("ranjeet");
         System.out.println("rohan");
 
+
+        System.out.println(" ranjeet");
+        System.out.println("ranveer");
+        System.out.println("jadhav");
+
         
     }
 }
